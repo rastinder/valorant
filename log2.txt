@@ -1,0 +1,1483 @@
+0.0.0.0 , running
+play_red found
+in funtion selectdm
+scoreboard found
+scoreboard found while searching 4 dm
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+start found
+start found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+cant find login page
+login_screen found
+install found
+i think playing first time
+install found
+i think playing first time
+install found
+i think playing first time
+install found
+i think playing first time
+val process not showing
+login_screen found
+play_button found
+play found but wait 3 sec to press
+in funtion selectdm
+play_red_menu found
+play red found
+esc_close found
+play_white found
+play red found
+death_match_button found
+its working
+play_white found
+play red found
+death_match_button found
+its working
+dm found
+settings found
+settings_word found
+purple found
+close_settings found
+close_settings found
+start found
+start found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+start found
+start found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+cant click
+scoreboard found
+scoreboard found
+play_red found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant click
+esc found
+cant find login page
+login_screen found
+cant click
+install found
+i think playing first time
+val process not showing
+login_screen found
+val process not showing
+login_screen found
+cant click
+install found
+i think playing first time
+val process not showing
+login_screen found
+cant click
+install found
+i think playing first time
+val process not showing
+login_screen found
+cant click
+install found
+i think playing first time
+val process not showing
+login_screen found
+cant click
+install found
+i think playing first time
+val process not showing
+login_screen found
+cant click
+install found
+i think playing first time
+val process not showing
+login_screen found
+cant click
+install found
+i think playing first time
+val process not showing
+cant find login page
+cant find login page
+cant find login page
+login_screen found
+cant click
+install found
+i think playing first time
+val process not showing
+login_screen found
+val process not showing
+login_screen found
+cant click
+install found
+i think playing first time
+val process not showing
+login_screen found
+val process not showing
+cant find login page
+login_screen found
+val process not showing
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+login_screen found
+val process not showing
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+cant find login page
+login_screen found
+play_button found
+play found but wait 3 sec to press
+in funtion selectdm
+4k dot found
+4k dot found
+4k dot found
+4k dot found
+4k dot found
+4k dot found
+4k dot found
+4k dot found
+4k dot found
+4k dot found
+4k dot found
+4k dot found
+4k dot found
+4k dot found
+4k dot found
+4k dot found
+play_red_menu found
+play red found
+esc_close found
+play_white found
+play red found
+death_match_button found
+its working
+dm found
+settings found
+settings_word found
+purple found
+close_settings found
+close_settings found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+play_red found
+esc found
+192.168.1.2 is up zack1

@@ -1,0 +1,17 @@
+0.0.0.0 , running
+play_red_menu found
+in funtion selectdm
+esc_close found
+play_white found
+play red found
+death_match_button found
+its working
+dm found
+clr selection failed
+start found
+start found
+buy_menu found
+scoreboard found
+scoreboard found
+lvl20 found
+192.168.1.2 is up zack1
